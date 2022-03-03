@@ -1,9 +1,9 @@
 ![counter](https://enwk7okkacbnf3i.m.pipedream.net)
 
-# Hi!! I'm Ben (they/them)
+<h1 align="center">Hi!! I'm Ben 👋</h1>
 
 ### I write code that makes computers do things
-![owo](https://skills.thijs.gg/icons?i=ts,js,go,rust,postgres,cf)
+![owo](https://skills.thijs.gg/icons?i=ts,js,go,rust,postgres,redis,cf)
 
 <details>
   <summary>Coding Stats</summary>
