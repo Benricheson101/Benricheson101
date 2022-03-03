@@ -1,5 +1,7 @@
 ![counter](https://enwk7okkacbnf3i.m.pipedream.net)
 
+# Hi!! I'm Ben (they/them)
+
 ### I write code that makes computers do things
 ![owo](https://skills.thijs.gg/icons?i=ts,js,go,rust,postgres,cf)
 
