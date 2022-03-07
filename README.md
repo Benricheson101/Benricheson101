@@ -4,7 +4,7 @@
 <h1 align="center">Hi!! I'm Ben 👋</h1>
 
 ### I write code that makes computers do things
-![owo](https://skills.thijs.gg/icons?i=ts,js,go,rust,postgres,redis,cf)
+![owo](https://skills.thijs.gg/icons?i=ts,js,go,rust,nodejs,postgres,redis,cf)
 
 <details>
   <summary>Coding Stats</summary>
