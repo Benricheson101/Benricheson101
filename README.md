@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi!! I'm Ben 👋</h1>
 
-<h3 align="center">I write code to make computers do things</h3>
+<h3 align="center">beep boop</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,go,rust,nodejs,postgres,mongo,redis,cf,docker,vim&coding=cute" />
