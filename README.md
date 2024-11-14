@@ -1,17 +1,1 @@
-![counter](https://enwk7okkacbnf3i.m.pipedream.net)
-
-
-<h1 align="center">Hi!! I'm Ben 👋</h1>
-
-<h3 align="center">beep boop</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,go,rust,nodejs,postgres,mongo,redis,docker,neovim&coding=cute" />
-  </a>
-</p>
-
-<details>
-  <summary>Coding Stats</summary>
-
-  ![langs](https://wakatime.com/share/@redpanda/4650c33e-d833-4e5d-92a8-35284444b6e7.svg)
-</details>
+dox Advaith Mandala Jagathesan ajagathe@ucsc.edu advaith@ucsc.edu advaith@advaith.io advaith1@gmail.com advaithj@gmail.com advaith@discord.com advaithj@discord.com advaithjagathesan@discord.com fasther narain kumar jagathesan Senior Software Development Manager at Oracle phone 5107945608 address 2880 Predio Ter, Fremont CA 94539 then second house because daddy rich 37819 Jasmine Crt, Fremont CA 94536
